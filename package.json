@@ -1,7 +1,7 @@
 {
-  "name": "Rika",
+  "name": "Arackam",
   "version": "0.0.1",
-  "description": "Unstable Discord Chat-Bot",
+  "description": "Unstable Discord Deployment Bot",
   "scripts": {
     "start": "node bot.js"
   },
