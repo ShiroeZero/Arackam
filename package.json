@@ -1,0 +1,16 @@
+{
+  "name": "Rika",
+  "version": "0.0.1",
+  "description": "Unstable Discord Chat-Bot",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Yaayaa",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "request": "2.88.2",
+    "foreach-timeout": "^3.0.1",
+    "express": "4.17.1",
+    "map": "1.0.1"
+  }
+}
